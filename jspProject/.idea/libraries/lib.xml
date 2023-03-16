@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://$USER_HOME$/apache-tomcat-9.0.65/lib" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Program Files/JDBC driver/postgresql-42.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Program Files/JSTL/jstl-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Program Files/cos/cos-22.05/lib/cos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Program Files/JDBC driver/mysql-connector-j-8.0.32.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/apache-tomcat-9.0.65/lib" recursive="false" />
+  </library>
+</component>
